@@ -6,7 +6,7 @@
 
 # Hi, I'm Jahnavi Avadhuta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Software+Engineer+💻;Java+Full+Stack+Developer+☕;AI+%26+Data+Science+Enthusiast+🤖;Building+Intelligent+Software+🚀;Open+to+Opportunities+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Software+Engineer+💻;Java+Full+Stack+Developer+☕;AI+%26+Data+Science+Enthusiast+🤖;Building+Intelligent+Software+🚀;Open+to+Software+Engineering+Opportunities+🌟)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 I'm a **Computer Science graduate** passionate about **Software Engineering, Artificial Intelligence, and Data Science**.
 
-I enjoy building scalable software solutions using **Java, Spring Boot, Python, React, SQL, and modern development tools**. Over the past year, I've developed full-stack web applications, AI-powered desktop software, machine learning models, and automation projects that strengthened my backend development, problem-solving, and software engineering skills.
+I enjoy building scalable software solutions using **Java, Spring Boot, Python, React, SQL, and modern development tools**. Over the past year, I've developed full-stack web applications, AI-powered desktop software, machine learning models, and automation projects that strengthened my backend development, software engineering, and problem-solving skills.
 
 I'm currently expanding my expertise in **Machine Learning, Generative AI, Cloud, and Data Science** while preparing for my **Master's in Data Science**.
 
@@ -26,7 +26,7 @@ I'm currently expanding my expertise in **Machine Learning, Generative AI, Cloud
 - ☕ Java • Spring Boot • React
 - 🤖 Python • Machine Learning • Generative AI
 - 🌱 Currently learning **Deep Learning, Cloud & MLOps**
-- 🎯 Open to Software Engineering, AI & Data Science opportunities
+- 🎯 Open to **Software Engineering, AI & Data Science** opportunities
 
 ---
 
@@ -46,7 +46,7 @@ An intelligent Python voice assistant integrating **Speech Recognition**, **Open
 
 ### 💰 Personal Finance Manager
 
-A MERN Stack application developed during the **AICTE Edunet Foundation Internship** with JWT authentication and MongoDB.
+A MERN Stack expense management application featuring **JWT authentication**, **MongoDB integration**, and a responsive React interface.
 
 ---
 
@@ -131,15 +131,15 @@ A MERN Stack application developed during the **AICTE Edunet Foundation Internsh
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-Avadhuta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-Avadhuta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Jahnavi-Avadhuta&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Jahnavi-Avadhuta&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Avadhuta&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Avadhuta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -149,7 +149,7 @@ A MERN Stack application developed during the **AICTE Edunet Foundation Internsh
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jahnavi-Avadhuta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jahnavi-Avadhuta&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -169,15 +169,15 @@ A MERN Stack application developed during the **AICTE Edunet Foundation Internsh
 
 <div align="center">
 
-I'm always open to discussing software engineering, AI, data science, internships, research opportunities, and exciting collaborations.
+I'm always open to discussing **Software Engineering, Artificial Intelligence, Data Science, internships, and exciting collaborations.**
 
 📫 **Email:** jahnaviavadhuta@gmail.com
 
-🌐 **Portfolio:** https://YOUR-PORTFOLIO-URL.vercel.app
+🌐 **Portfolio:** https://portfolio-website-g71be8hos-jahnavi13.vercel.app/
 
 💼 **LinkedIn:** https://linkedin.com/in/jahnavi-avadhuta-879b4232b
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+⭐ Feel free to explore my repositories and connect with me!
 
 ---
 
