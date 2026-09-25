@@ -1,188 +1,204 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Jahnavi-Avadhuta&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-
 # Hi, I'm Jahnavi Avadhuta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Software+Engineer+💻;Java+Full+Stack+Developer+☕;AI+%26+Data+Science+Enthusiast+🤖;Building+Intelligent+Software+🚀;Open+to+Software+Engineering+Opportunities+🌟)](https://git.io/typing-svg)
+### Computer Science Graduate | Java | Python | SQL | Data & Software Development
+
+Building practical software applications while developing my skills in
+data analysis, machine learning, and data-driven problem solving.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-zeta-blond-34.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-avadhuta-879b4232b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahnaviavadhuta@gmail.com)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Computer Science graduate** passionate about **Software Engineering, Artificial Intelligence, and Data Science**.
+I'm a Computer Science graduate with a foundation in software development,
+databases, and application development.
 
-I enjoy building scalable software solutions using **Java, Spring Boot, Python, React, SQL, and modern development tools**. Over the past year, I've developed full-stack web applications, AI-powered desktop software, machine learning models, and automation projects that strengthened my backend development, software engineering, and problem-solving skills.
+I have built full-stack and backend applications using **Java, Spring Boot,
+React, SQL, and MySQL**, along with Python-based applications involving
+AI and automation.
 
-I'm currently expanding my expertise in **Machine Learning, Generative AI, Cloud, and Data Science** while preparing for my **Master's in Data Science**.
+Through internships, training, and personal projects, I have worked with
+REST APIs, database-driven applications, authentication, frontend integration,
+and software development tools.
 
-### 🚀 Highlights
-
-- 💻 Built **7+ real-world software projects**
-- ☕ Java • Spring Boot • React
-- 🤖 Python • Machine Learning • Generative AI
-- 🌱 Currently learning **Deep Learning, Cloud & MLOps**
-- 🎯 Open to **Software Engineering, AI & Data Science** opportunities
+I'm also developing my skills in **SQL, Python, Pandas, data analysis,
+data visualisation, and machine learning**, with a growing interest in
+using data to identify patterns and support better decisions.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🚗 AbhiNOW
 
-A full-stack ride-sharing platform built using **Spring Boot**, **React**, **JWT Authentication**, **Google OAuth2**, **WebSockets**, **Docker**, and **Google Maps API**.
+A full-stack ride-sharing web application built with **Spring Boot, React,
+MySQL, REST APIs, and JWT authentication**.
+
+- User authentication and profile management
+- Ride booking functionality
+- REST API-based backend
+- Layered Spring Boot architecture
+- MySQL database integration
+
+🔗 [View Repository](https://github.com/Jahnavi-Avadhuta/AbhiNOW-SpringBoot)
+
+---
 
 ### 📚 BookSwapX
 
-A Java EE web application for buying, selling, and exchanging books featuring automatic matching using **MySQL Triggers**, role-based authentication, and MVC architecture.
+A Java web application for buying, selling, and exchanging college textbooks.
+
+- Java MVC-based web application
+- Jakarta Servlets and JSP
+- MySQL database integration
+- CRUD operations
+- Automated book matching using MySQL triggers
+
+🔗 [View Repository](https://github.com/Jahnavi-Avadhuta/BookSwapX)
+
+---
 
 ### 🤖 Bujji AI
 
-An intelligent Python voice assistant integrating **Speech Recognition**, **OpenAI GPT**, **NewsAPI**, and desktop automation.
+A Python-based desktop voice assistant combining speech recognition,
+conversational AI, APIs, and desktop automation.
+
+- Speech recognition
+- Text-to-speech
+- OpenAI API integration
+- News API integration
+- Desktop automation
+
+🔗 [View Repository](https://github.com/Jahnavi-Avadhuta/Bujji-AI-Voice-Assistant)
+
+---
 
 ### 💰 Personal Finance Manager
 
-A MERN Stack expense management application featuring **JWT authentication**, **MongoDB integration**, and a responsive React interface.
+A MERN-based personal finance application developed during my
+AICTE Edunet Foundation internship.
+
+- React frontend
+- Node.js and Express backend
+- MongoDB database
+- JWT authentication
+- Expense management functionality
+
+🔗 [View Repository](https://github.com/Jahnavi-Avadhuta/personal-finance-manager)
 
 ---
 
-# 🛠 Tech Stack
+### 💳 Expense Tracker
 
-## 💻 Languages
+A Java console application for recording and managing daily expenses.
+
+- Object-oriented programming
+- Collections
+- File handling
+- Exception handling
+
+🔗 [View Repository](https://github.com/Jahnavi-Avadhuta/expense-tracker-java)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
-
-## ⚙️ Backend
+### Backend & Web Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
----
-
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### Data & AI
 
-## 🤖 AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-7B2FBE?style=for-the-badge)
 
----
-
-## 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🧰 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🌐 Connect With Me
+## 📚 Currently Learning
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-g71be8hos-jahnavi13.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahnavi-avadhuta-879b4232b)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahnavi-Avadhuta)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahnaviavadhuta@gmail.com)
-
-</div>
+- Data Analytics with SQL and Python
+- Pandas and exploratory data analysis
+- Data visualisation
+- Machine learning
+- Generative AI and prompt engineering
 
 ---
 
-# 📊 GitHub Statistics
+## 🎓 Education
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-Avadhuta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Jahnavi-Avadhuta&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Avadhuta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+**B.Tech - Computer Science and Engineering**  
+Malla Reddy College of Engineering for Women  
+2021 - 2025 | CGPA: 7.71 / 10
 
 ---
 
-# 🏆 GitHub Trophies
+## 💼 Experience
 
-<div align="center">
+**Java Full Stack Trainee - V Cube Software Solutions**  
+2025 - 2026
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jahnavi-Avadhuta&theme=tokyonight&no-frame=true&margin-w=10"/>
+Hands-on training in Java, Spring Boot, React, MySQL, REST APIs,
+Hibernate, JPA, authentication, and database-driven application development.
 
-</div>
+**MERN Stack Intern - Edunet Foundation**  
+Feb 2025 - Mar 2025
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahnavi-Avadhuta&theme=tokyo-night&hide_border=true"/>
-
-</div>
+Worked on a Personal Finance Manager using React, Node.js, Express,
+MongoDB, and JWT authentication as part of the Next Gen Employability Program.
 
 ---
 
-# 🤝 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-I'm always open to discussing **Software Engineering, Artificial Intelligence, Data Science, internships, and exciting collaborations.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-zeta-blond-34.vercel.app/)
 
-📫 **Email:** jahnaviavadhuta@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-avadhuta-879b4232b/)
 
-🌐 **Portfolio:** https://portfolio-website-g71be8hos-jahnavi13.vercel.app/
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahnavi-Avadhuta)
 
-💼 **LinkedIn:** https://linkedin.com/in/jahnavi-avadhuta-879b4232b
-
-⭐ Feel free to explore my repositories and connect with me!
-
----
-
-*"Every project is an opportunity to learn, improve, and build software that creates real impact."* 🚀
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahnaviavadhuta@gmail.com)
 
 </div>
